@@ -54,7 +54,7 @@ p {
         justify-content: space-between;
         flex-wrap: wrap;
     }
-    
+
     .contenido-principal,
     .primera{
         flex-basis: calc(50% - 1rem);
@@ -62,7 +62,7 @@ p {
 }
 
 @media (min-width: 768px) {
-    .contenio-pricipal,
+    .contenido-principal,
     .primera,
     .segunda {
         flex: 0 0 calc(33.3% - 2rem);
